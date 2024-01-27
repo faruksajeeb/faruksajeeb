@@ -1,7 +1,14 @@
-
-<h1 align="center">Hi 👋, I'm Mohammad Omar Faruk Sajeeb</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+### Hi there 👋, I'm Mohammad Omar Faruk Sajeeb
+#### I am a Web Application Developer
 ![I am a Web Application Developer](https://media.licdn.com/dms/image/C5616AQGEk9Pa_yFwfQ/profile-displaybackgroundimage-shrink_350_1400/0/1661927487459?e=1711584000&v=beta&t=RyQdeTiyxI56hPpjQpU5VOSQxI0WLfleo0VNe7GZNP4)
+
+I'm a web application developer with in-depth experience in PHP & MySQL. In a nutshell, I create websites & web applications that help organizations address business challenges and meet their needs. 
+I manage everything from website navigation and layout to a company's web hosting and security architecture. 
+My expertise lies within front-end and backed web apps, and the main languages in my tech stack are JavaScript, React, Vue, PHP, Codeigniter, Laravel, MySQL, ORACLE, and of course HTML/CSS. 
+I’m a lifelong learner and love to read, run, and travel because not only is it the ultimate adventure but it also exposes you to new types of people, and different ways of living, and opens up your mind.
+
+Skills: VUE JS / REACT / JS / HTML / CSS / PHP / Laravel / CodeIgniter / Mysql / Oracle
+
 
 
 - 🔭 I’m currently working on **Early Event Detection App**
