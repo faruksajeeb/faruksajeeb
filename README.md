@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Omar Faruk Sajeeb</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
-(https://media.licdn.com/dms/image/C5616AQGEk9Pa_yFwfQ/profile-displaybackgroundimage-shrink_350_1400/0/1661927487459?e=1711584000&v=beta&t=RyQdeTiyxI56hPpjQpU5VOSQxI0WLfleo0VNe7GZNP4)
+![I am a Web Application Developer](https://media.licdn.com/dms/image/C5616AQGEk9Pa_yFwfQ/profile-displaybackgroundimage-shrink_350_1400/0/1661927487459?e=1711584000&v=beta&t=RyQdeTiyxI56hPpjQpU5VOSQxI0WLfleo0VNe7GZNP4)
 
 
 - 🔭 I’m currently working on **Early Event Detection App**
