@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18731
-Fork on GitHub
-5590
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Mohammad Omar Faruk Sajeeb</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
