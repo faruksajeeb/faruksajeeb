@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mohammad Omar Faruk Sajeeb
+### Hi there 👋, I'm Omar Faruk Sajeeb
 #### I am a Web Application Developer
 ![I am a Web Application Developer](https://media.licdn.com/dms/image/C5616AQGEk9Pa_yFwfQ/profile-displaybackgroundimage-shrink_350_1400/0/1661927487459?e=1711584000&v=beta&t=RyQdeTiyxI56hPpjQpU5VOSQxI0WLfleo0VNe7GZNP4)
 
