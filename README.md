@@ -19,8 +19,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / PHP / Laravel / CodeIgniter / Mysql /
 
 - 📫 How to reach me **ofsajeeb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wad0B9ccGM2THoy6BtychE1ZCbCjpeIZ/view?usp=drive_link](https://drive.google.com/file/d/1Wad0B9ccGM2THoy6BtychE1ZCbCjpeIZ/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/faruksajeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faruksajeeb" height="30" width="40" /></a>
